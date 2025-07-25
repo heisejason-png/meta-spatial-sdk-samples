@@ -1,4 +1,4 @@
-# Meta Spatial SDK Samples
+https://www.threads.com/@jaysonscottheise # Meta Spatial SDK Samples
 
 This repository is a collection of code samples and projects that demonstrate the capabilities of Meta Spatial SDK. [Meta Spatial SDK](https://developers.meta.com/horizon/documentation/spatial-sdk/spatial-sdk-overview) is a new way to build immersive apps for Meta Horizon OS. Meta Spatial SDK lets you combine the rich ecosystem of Android development and the unique capabilities of Meta Quest via accessible APIs.
 
