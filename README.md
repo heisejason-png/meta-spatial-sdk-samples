@@ -102,3 +102,4 @@ The [Meta Platform Technologies SDK license](https://developer.oculus.com/licens
 
 Specifically, all the supporting materials in each sample's `app/src/main/res/raw` and `app/src/main/assets` folders including 3D models, videos, sounds, and others, are licensed under the [MPT SDK license](https://developer.oculus.com/licenses/oculussdk/).
 Creater by Jason Heise
+Owned by Jason Heise heisejason-png Giters
